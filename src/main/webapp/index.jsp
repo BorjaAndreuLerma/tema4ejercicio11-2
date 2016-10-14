@@ -12,7 +12,7 @@
         <title>Entrada de datos</title>
     </head>
     <body>
-        <form action="/RecogeDatos.java" method="POST">
+        <form action="RecogeDatos" method="POST">
             <h2>Datos de Alumno</h2><br>
             Nombre: <input type="text" name="nombre"/><br>
             Primer apellido: <input type="text" name="apellido1"/><br>
